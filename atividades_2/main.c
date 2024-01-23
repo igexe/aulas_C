@@ -4,5 +4,7 @@
 #include "ex_3.h"
 
 int main(){
+	e1();
+	e2();
 	e3();
 }
